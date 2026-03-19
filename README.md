@@ -3,6 +3,12 @@
 ## 🚀 Live Prototype
 https://gigguard-ai-74474.bubbleapps.io/version-test
 
+->🔑 Demo Access
+
+Use the following credentials to explore the app:
+Email: test@gigguard.com  
+Password: 123456
+
 ## 🎥 Demo Video
 https://drive.google.com/file/d/171ujPAQVb8IDTNka5NN-__J6uuWgGbaI/view?usp=sharing
 
