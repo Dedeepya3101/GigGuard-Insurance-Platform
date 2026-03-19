@@ -107,8 +107,6 @@ The system checks whether the worker was active on the delivery platform during 
 
 Machine learning models identify suspicious patterns such as repeated claims or abnormal activity.
 
----
-
 -> 6. Platform Choice & Tech Stack
 
 **Platform:** Web Application
@@ -119,11 +117,7 @@ A web platform is chosen because it is easier to deploy quickly and accessible f
 HTML  
 CSS  
 JavaScript  
-
-
-
-*Backend
-
+->Backend
 Node.js / Python
 
 ->APIs
@@ -133,7 +127,6 @@ News APIs – for curfew and strike detection
 Google Maps API – for location validation  
 
 (Mock APIs will be used for delivery platform activity data)
-
 
 ->Database
 
@@ -170,14 +163,15 @@ Add advanced features including:
 Weeks 5–6
 -> Prototype Demo
 
-Prototype Link: (Add your prototype link here)
+Prototype Link: https://gigguard-ai-74474.bubbleapps.io/version-test
+
 
 
 ## Video Demonstration
 
 2-minute project explanation video:
 
-(Add your video link here)
+https://drive.google.com/file/d/171ujPAQVb8IDTNka5NN-__J6uuWgGbaI/view?usp=sharing
 
 *System Workflow*
 
